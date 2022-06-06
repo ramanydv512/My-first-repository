@@ -1,2 +1,6 @@
-# My-first-repository
-Trial
+a = 10
+b = 20
+if a==10:
+print("Hello")
+else:
+Print(b)
